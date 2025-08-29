@@ -21,6 +21,11 @@ public class Copyconstructor {
     public static void main(String[] args){
         Copyconstructor s1 = new Copyconstructor(101,"Rishi");
         Copyconstructor s2 = new Copyconstructor(s1);
+<<<<<<< HEAD:156_CS301L-main/156_CS301L-main/Copyconstructor.java
+=======
+        // s2.Emp_id = 102;
+        // s2.Emp_name= "Patwa";
+>>>>>>> d91ef5e0a968b691dff0df8a63175a2199664bc6:Copyconstructor.java
         s1.Display();
         s2.Display();
 

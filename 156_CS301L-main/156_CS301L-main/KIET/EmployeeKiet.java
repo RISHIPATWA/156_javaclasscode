@@ -14,7 +14,7 @@ public class EmployeeKiet {
 
     public static void main(String[] args) {
         EmployeeKiet ek = new EmployeeKiet();
-        ek.Emp_name="Santosh";
+        ek.Emp_name="Rishi";
         ek.Emp_id=101;
         ek.Salary=100000;
         ek.Organisation="SanX";
